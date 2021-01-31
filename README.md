@@ -12,13 +12,13 @@ This project is inspired by the world-famous eponymous 90’s game, which was th
 
 ## Resources
 
-![](https://courses.pikuma.com/courses/raycasting-c)
-![](https://github.com/gustavopezzi/raycasting/tree/master/raycasting-c)
-![](https://harm-smits.github.io/42docs/projects/cub3d)
-![](https://github.com/id-Software/wolf3d)
-![](https://www.youtube.com/watch?v=gYRrGTC7GtA&t=321s)
-![](https://github.com/qst0/ft_libgfx)
-![](https://github.com/keuhdall/images_example/blob/master/example.c)
-![](https://qst0.github.io/ft_libgfx/man_mlx_loop.html)
-![](https://www.allegro.cc/forums/thread/355015)
-![](https://medium.com/sysf/bits-to-bitmaps-a-simple-walkthrough-of-bmp-image-format-765dc6857393)
+https://courses.pikuma.com/courses/raycasting-c</br>
+https://github.com/gustavopezzi/raycasting/tree/master/raycasting-c</br>
+https://harm-smits.github.io/42docs/projects/cub3d</br>
+https://github.com/id-Software/wolf3d</br>
+https://www.youtube.com/watch?v=gYRrGTC7GtA&t=321s</br>
+https://github.com/qst0/ft_libgfx</br>
+https://github.com/keuhdall/images_example/blob/master/example.c</br>
+https://qst0.github.io/ft_libgfx/man_mlx_loop.html</br>
+https://www.allegro.cc/forums/thread/355015</br>
+https://medium.com/sysf/bits-to-bitmaps-a-simple-walkthrough-of-bmp-image-format-765dc6857393
