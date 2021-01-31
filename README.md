@@ -1,3 +1,4 @@
+<img src="cub3Dr.png" width="259" height="80" position="center">
 <img src="cub3D.png" width="143" height="80" position="center">
 
 # cub3D 
