@@ -10,4 +10,15 @@ This project is inspired by the world-famous eponymous 90’s game, which was th
 <!-- <img src="cub3D.gif" width="400" height="300" position="center"> -->
 <!-- <img src="https://forthebadge.com/images/badges/made-with-c.svg" width="400" height="300" position="center"> -->
 
+## Resources
 
+https://courses.pikuma.com/courses/raycasting-c
+https://github.com/gustavopezzi/raycasting/tree/master/raycasting-c
+https://harm-smits.github.io/42docs/projects/cub3d
+https://github.com/id-Software/wolf3d
+https://www.youtube.com/watch?v=gYRrGTC7GtA&t=321s
+https://github.com/qst0/ft_libgfx
+https://github.com/keuhdall/images_example/blob/master/example.c
+https://qst0.github.io/ft_libgfx/man_mlx_loop.html
+https://www.allegro.cc/forums/thread/355015
+https://medium.com/sysf/bits-to-bitmaps-a-simple-walkthrough-of-bmp-image-format-765dc6857393
