@@ -1,0 +1,13 @@
+R 800 400
+NO ./maps/textures/brick.xpm
+SO ./maps/textures/wood.xpm
+WE ./maps/textures/blue.xpm
+EA ./maps/textures/grey.xpm
+S ./maps/textures/lion.xpm
+F 220,100,0
+C 225,30,0
+111111
+120021
+100001
+1000S1
+111111

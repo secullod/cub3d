@@ -1,0 +1,13 @@
+R 800 400
+NO ./maps/textures/brick.xpm
+SO ./maps/textures/brick.xpm
+WE ./maps/textures/brick.xpm
+EA ./maps/textures/brick.xpm
+S ./maps/textures/brick.xpm
+F 220,100,0
+C 225,30,0
+111111
+120021
+10N001
+1000N1
+111111

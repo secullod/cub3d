@@ -1,0 +1,13 @@
+R 800 400
+NO ./maps/textures/sponge bob.xpm
+SO ./maps/textures/sponge bob.xpm
+WE ./maps/textures/sponge bob.xpm
+EA ./maps/textures/sponge bob.xpm
+S ./maps/textures/sponge bob.xpm
+F 220,100,0
+C 225,30,0
+111111
+100001
+100001
+1000N1
+111111
